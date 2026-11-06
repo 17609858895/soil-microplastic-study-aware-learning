@@ -1,6 +1,6 @@
 # Study-aware learning in soil microplastic compilations
 
-Core numerical code for **Study-aware learning reveals environmental contrasts and calibration value in soil microplastic compilations**.
+Core numerical code for **Study-aware learning reveals environmental contrasts and calibration needs in soil microplastic compilations**.
 
 The analyses distinguish environmental comparisons within source studies from protocol associations between studies, and evaluate how local measurements calibrate predictions for a held-out study. The analysis set contains 5,853 records from 281 publications.
 
